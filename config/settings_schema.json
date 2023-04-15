@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   {
     "name": "theme_info",
     "theme_name": "Moon Base",
@@ -6,3 +7,7 @@
     "theme_author": "Jennifer Delmonte"
   }
 ] 
+=======
+
+]
+>>>>>>> 9237da9be3ecc8f1c9bf0fd49d7e8c0660cb6b46
